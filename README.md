@@ -37,3 +37,14 @@ AI-Enabled-Well-Water-Predictor/
 │   └── frontend/         # HTML templates
 │
 └── README.md
+--------------------------------------------------------------------------------------------------------------------
+
+## 👥 Team Credits
+
+This project was developed as a collaborative final year engineering project.
+
+- Harshita Maltesh Bistannavar  
+- J Monica Jasmine  
+- Vaibhavi Nariyur  
+
+
