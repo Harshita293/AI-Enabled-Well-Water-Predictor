@@ -1,1 +1,14 @@
+# Dataset Description
+
+This dataset contains parameters related to groundwater and well characteristics.
+
+## Attributes
+- Soil type
+- Well depth
+- Drilling method
+- Water yield
+- Location parameters
+
+## Usage
+Used for training and validating machine learning models for well water prediction.
 
