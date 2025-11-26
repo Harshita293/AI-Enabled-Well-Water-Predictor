@@ -1,26 +1,39 @@
 # AI-Enabled Well Water Predictor
 
-## Project Overview
-This project is an AI-enabled system that predicts well water availability using machine learning techniques.
+## 📌 Project Overview
+This project is an AI-enabled system that predicts well water availability using machine learning models based on environmental, geological, and historical parameters.
 
-## Problem Statement
-Traditional methods of predicting well water availability are inaccurate and time-consuming.
+The system helps in:
+- Identifying suitable locations for wells
+- Predicting water yield and success probability
+- Supporting sustainable groundwater management
 
-## Technologies Used
-- Python
-- Machine Learning
-- Flask
-- HTML, CSS, JavaScript
+---
 
-## Project Components
-- Dataset
-- Machine learning model
-- Web interface
-- Research papers & project report
+## 🎯 Problem Statement
+Traditional methods of predicting well water availability are manual, time-consuming, and often inaccurate. This project uses machine learning to provide faster and more reliable predictions.
 
-## How to Run
-pip install -r requirements.txt
-python src/backend/app.py
+---
 
-## Academic Details
-Final Year Engineering Project
+## 🧠 Technology Stack
+- **Backend:** Python, Flask  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Machine Learning:** Scikit-learn, ensemble models  
+- **Data:** Groundwater and environmental datasets  
+
+---
+
+## 📂 Project Structure
+```text
+AI-Enabled-Well-Water-Predictor/
+│
+├── dataset/              # Dataset and description
+├── research/             # Literature survey
+├── documentation/        # Report, papers, PPTs
+│
+├── src/
+│   ├── backend/          # Flask backend (app.py)
+│   ├── model/            # Trained ML model files (.pkl)
+│   └── frontend/         # HTML templates
+│
+└── README.md
